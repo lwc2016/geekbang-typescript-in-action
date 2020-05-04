@@ -1,4 +1,4 @@
-console.log("---------------- interface ---------------")
+console.log("---------------- object interface ---------------")
 interface User{
     id: number,
     name: string,
