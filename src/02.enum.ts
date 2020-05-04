@@ -1,3 +1,4 @@
+console.log("---------------- enum ---------------")
 // 1. 数字枚举
 enum Role{
     Reporter,
